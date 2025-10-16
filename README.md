@@ -18,6 +18,9 @@ Minha missão é transformar complexidade em experiências digitais simples e fu
   <a href="mailto:dev.taynagoes@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+   <a href="mailto:tayynagoes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/tayynagoes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -46,26 +49,7 @@ Minha missão é transformar complexidade em experiências digitais simples e fu
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </p>
 
----
-## 📊 GitHub Insights
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tayynagoes&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide_title=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayynagoes&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayynagoes&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tayynagoes&theme=onestar&no-bg=true&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 ## 🪄 Projetos em Destaque
 <p align="center">
